@@ -1,7 +1,8 @@
 streamlit
-pandas
 pdfrw
-pdfplumber
 reportlab
+pdfplumber
+pillow
+matplotlib
 pymupdf
-Pillow
+pandas
