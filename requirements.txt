@@ -3,4 +3,5 @@ pandas
 pdfrw
 pdfplumber
 reportlab
+pymupdf
 Pillow
